@@ -1,2 +1,3 @@
 # love -what is it?
-wha*t is hte oposite of love
+what is hte oposite of love
+The opposite of love is indifference
