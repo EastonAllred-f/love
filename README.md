@@ -3,4 +3,4 @@
 * The opposite of love is indifference
 
 # Hate - what is it
-* The intense dislike
+* The intense dislike.
