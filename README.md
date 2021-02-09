@@ -4,3 +4,5 @@
 
 # Hate - what is it
 * The intense dislike.
+* The opposite of Hate is indifference
+
